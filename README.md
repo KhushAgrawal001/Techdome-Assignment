@@ -114,8 +114,8 @@ if __name__ == "__main__":
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ecommerce-testing-project.git
-   cd ecommerce-testing-project
+   git clone https://github.com/khushagrawal001/Techdome-Assignment.git
+   cd Techdome-Assignment
    ```
 
 2. Install required packages:
