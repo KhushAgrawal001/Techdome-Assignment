@@ -148,7 +148,5 @@ if __name__ == "__main__":
 - **LinkedIn**: [TechDome Solutions](https://www.linkedin.com/company/techdome-solutions)
 - **Website**: [techdome.net.in](https://techdome.net.in)
 - **Email**: [contact@techdome.net.in](mailto:contact@techdome.net.in)
-- **Phone**: +91-7723849516, +91-9826073971
-- **Address**: A/75, Vidhya Palace Colony, Aerodrum Road, Indore (M.P.), 452009
 
-Thank you for reviewing this project. Please feel free to contact us for any further information or clarification.
+Thank you for reviewing this project. Please feel free to contact me for any further information or clarification.
